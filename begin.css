@@ -1,0 +1,41 @@
+.container img {
+	margin-right: 5px;
+}
+
+.container {
+	width: 100% ; 
+	height: 30%; 
+	background-color: #FFF0F5; 
+}
+
+.containeronder {
+	width: 100% ; 
+	height: 30%; 
+	background-color: #FFF0F5; 
+	
+}
+
+.containeronder img {
+	margin-right: 5px;
+}
+
+.titel p {
+	background-color: #FFF0F5; 
+	width: 60%;
+	height: 30%;
+	margin-left: 40%;
+	margin-top: 147px;
+	margin-bottom: 147px;
+	color: #FF69B4;
+	
+}
+
+body {
+	background-color: #FFF0F5; 
+}
+
+a:link {
+  color: #FF69B4;
+  background-color: transparent;
+  text-decoration: none;
+}
